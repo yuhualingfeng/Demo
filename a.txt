@@ -8,6 +8,12 @@ puhuasheng will be a pro programer.
 
 will puhuasheng be a pro programer? 
 
+<<<<<<< HEAD
 no,he is a vegetable bird.
 
 this is master branche,ok ?
+=======
+yes ,you are right.
+
+this is testing branch,ok?
+>>>>>>> testing
